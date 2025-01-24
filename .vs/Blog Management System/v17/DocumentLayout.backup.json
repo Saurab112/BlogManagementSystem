@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\myLearnings\\Blog Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|c:\\mylearnings\\blog management system\\blog management system\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|solutionrelative:blog management system\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|c:\\mylearnings\\blog management system\\blog management system\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|solutionrelative:blog management system\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|c:\\mylearnings\\blog management system\\blog management system\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|solutionrelative:blog management system\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|c:\\mylearnings\\blog management system\\blog management system\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|solutionrelative:blog management system\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|c:\\mylearnings\\blog management system\\blog management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|solutionrelative:blog management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|c:\\mylearnings\\blog management system\\blog management system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|solutionrelative:blog management system\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|c:\\mylearnings\\blog management system\\blog management system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|solutionrelative:blog management system\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|c:\\mylearnings\\blog management system\\blog management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|solutionrelative:blog management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|c:\\mylearnings\\blog management system\\blog management system\\blog management system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ED424A7D-8BA5-43BA-B7C2-0FB916CBDD99}|Blog Management System\\Blog Management System.csproj|solutionrelative:blog management system\\blog management system.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "Blog Management System\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Models\\BlogPost.cs",
+              "RelativeToolTip": "Blog Management System\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T03:04:43.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\myLearnings\\Blog Management System\\Blog Management System\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Blog Management System\\appsettings.Development.json",
+              "ToolTip": "C:\\myLearnings\\Blog Management System\\Blog Management System\\appsettings.Development.json",
+              "RelativeToolTip": "Blog Management System\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T02:59:11.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Blog Management System\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Blog Management System\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T02:56:03.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Blog Management System",
+              "DocumentMoniker": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Blog Management System.csproj",
+              "RelativeDocumentMoniker": "Blog Management System\\Blog Management System.csproj",
+              "ToolTip": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Blog Management System.csproj",
+              "RelativeToolTip": "Blog Management System\\Blog Management System.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T02:55:54.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\myLearnings\\Blog Management System\\Blog Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "Blog Management System\\appsettings.json",
+              "ToolTip": "C:\\myLearnings\\Blog Management System\\Blog Management System\\appsettings.json",
+              "RelativeToolTip": "Blog Management System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T02:55:38.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Blog Management System\\Program.cs",
+              "ToolTip": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Program.cs",
+              "RelativeToolTip": "Blog Management System\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:55:27.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Blog Management System\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Blog Management System\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T02:51:56.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Blog Management System\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Blog Management System\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T02:42:10.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "Blog Management System\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "Blog Management System\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T02:32:01.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
