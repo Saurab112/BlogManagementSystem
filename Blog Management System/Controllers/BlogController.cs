@@ -24,8 +24,62 @@ namespace Blog_Management_System.Controllers
 		[HttpPost]
 		public IActionResult Create(BlogPost post)
 		{
-			_blogService.AddPost(post);
+			if (ModelState.IsValid)
+			{
+				_blogService.AddPost(post);
+				return RedirectToAction("Index");
+			}
+			return View(post);
+		}
+
+		public IActionResult Edit(int id)
+		{
+			BlogPost? post = _blogService.GetPostById(id);
+			if (post != null)
+			{
+				return View(post);
+			}
+			return NotFound();
+		}
+
+		[HttpPost]
+		public IActionResult Edit(BlogPost post)
+		{
+			if (ModelState.IsValid)
+			{
+				_blogService.UpdatePost(post);
+				return RedirectToAction("Index");
+			}
+			return View(post);
+		}
+		[HttpGet]
+		public IActionResult Delete(int Id)
+		{
+			BlogPost? post = _blogService.GetPostById(Id);
+			if (post == null)
+			{
+				return NotFound();
+			}
+			return View(post);
+		}
+		[HttpPost, ActionName("Delete")]
+		public IActionResult DeleteConfirmed(int id)
+		{
+			if (ModelState.IsValid)
+			{
+				_blogService.DeletePost(id);
+			}
 			return RedirectToAction("Index");
+		}
+
+		public IActionResult Show(int id)
+		{
+			BlogPost? post = _blogService.GetPostById(id);
+			if(post != null)
+			{
+				return View(post);
+			}
+			return NotFound();
 		}
 	}
 }

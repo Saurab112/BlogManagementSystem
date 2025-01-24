@@ -1,0 +1,12 @@
+﻿@model BlogPost;
+
+<h2>Delete Post</h2>
+
+<p>Are you sure you want to delete the post titled "<strong>@Model.Title</strong>"?</p>
+
+
+<form asp-action="Delete" method="post">
+	<input type="hidden" name="Id" asp-for="Id" />
+	<button type="submit" class="btn btn-primary">Delete</button>
+	<a href="@Url.Action("Index")">Cancel</a>
+</form>

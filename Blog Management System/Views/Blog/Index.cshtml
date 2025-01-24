@@ -1,4 +1,4 @@
-﻿@model IEnumerable<BlogPost>;
+﻿@model IEnumerable<BlogPost>
 
 <h2>All Blog Posts</h2>
 <a href="/Blog/Create">Create New Post</a>
@@ -8,6 +8,7 @@
             <th>Title</th>
             <th>Author</th>
             <th>Date</th>
+            <th>Content</th>
             <th>Actions</th>
         </tr>
     </thead>
@@ -15,11 +16,18 @@
         @foreach (var post in Model)
         {
             <tr>
-                <td>@post.Title</td>
+                <td>
+                    <a href="Blog/Show/@post.Id">@post.Title</a>
+                </td>
                 <td>@post.Author</td>
                 <td>@post.CreatedDate.ToShortDateString()</td>
                 <td>
-                    <a href="/Blog/Edit/@post.Id" class="btn btn-primary">Edit</a> |
+                    <p>@post.Content.Substring(0,10)...</p>
+                    <a href="/Blog/Show/@post.Id" class="btn btn-secondary">Read More</a>
+
+                </td>
+                <td>
+                    <a href="/Blog/Edit/@post.Id" class="btn btn-primary">Edit</a>
                     <a href="/Blog/Delete/@post.Id" class="btn btn-primary">Delete</a>
                 </td>
             </tr>

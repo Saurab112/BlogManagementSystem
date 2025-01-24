@@ -96,3 +96,102 @@ C:\myLearnings\Blog Management System\Blog Management System\obj\Debug\net9.0\re
 C:\myLearnings\Blog Management System\Blog Management System\obj\Debug\net9.0\Blog Management System.pdb
 C:\myLearnings\Blog Management System\Blog Management System\obj\Debug\net9.0\Blog Management System.genruntimeconfig.cache
 C:\myLearnings\Blog Management System\Blog Management System\obj\Debug\net9.0\ref\Blog Management System.dll
+C:\myLearnings\BlogManagementSystem\Blog Management System\bin\Debug\net9.0\appsettings.Development.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\bin\Debug\net9.0\appsettings.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\bin\Debug\net9.0\Blog Management System.staticwebassets.endpoints.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\bin\Debug\net9.0\Blog Management System.staticwebassets.runtime.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\bin\Debug\net9.0\Blog Management System.exe
+C:\myLearnings\BlogManagementSystem\Blog Management System\bin\Debug\net9.0\Blog Management System.deps.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\bin\Debug\net9.0\Blog Management System.runtimeconfig.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\bin\Debug\net9.0\Blog Management System.dll
+C:\myLearnings\BlogManagementSystem\Blog Management System\bin\Debug\net9.0\Blog Management System.pdb
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.AssemblyInfoInputs.cache
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.AssemblyInfo.cs
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.csproj.CoreCompileInputs.cache
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.RazorAssemblyInfo.cache
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.RazorAssemblyInfo.cs
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.sourcelink.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\scopedcss\bundle\Blog Management System.styles.css
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\scopedcss\projectbundle\Blog Management System.bundle.scp.css
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\eikalq092r-b9sayid5wm.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\tpprec41j2-61n19gt1b8.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\tdf03x7m7a-xtxxf3hu2r.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\iriqj89l0x-bqjiyaj88i.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\7itgrjlymd-c2jlpeoesf.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\z4g4yxafjh-erw9l3u2r3.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\vx70dve50w-aexeepp0ev.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\za71hkkhg6-d7shbmvgxk.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\44r8njbbmq-ausgxo2sd3.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\zzm1hs1tf4-k8d9w2qqmf.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\w5gwhs69sd-cosvhxvwiu.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\44k7fcxvbw-ub07r2b239.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\vztrkv81nj-fvhpjtyr6v.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\uak1lo1u5k-b7pk76d08c.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\k2gm3yaiob-fsbi9cje9m.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\uunxk28zzd-rzd6atqjts.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\ax1sjcrexl-ee0r1s7dh0.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\y4x89z5218-dxx9fxp4il.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\hselyhh23e-jd9uben2k1.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\vykb9bvquj-khv3u5hwcm.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\z7gk60nlqr-r4e9w2rdcm.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\0nzcp3bxfu-lcd1t2u6c8.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\eme4dko37m-c2oey78nd0.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\1t7tcji2mq-tdbxkamptv.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\iljw3r4vmu-j5mq2jizvt.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\9uhgya52mr-06098lyss8.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\f1ua0bt8lv-nvvlpmu67g.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\05f3wltzfi-s35ty4nyc5.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\dq53oe5mlr-pj5nd1wqec.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\it0sl4uoni-46ein0sx1k.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\bnx6pprniu-v0zj4ognzu.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\v90nznokd6-37tfw0ft22.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\03ickvn62k-hrwsygsryq.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\cihu1gro2c-pk9g2wxc8p.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\m4hiko528a-ft3s53vfgj.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\c2r2c9h0yh-6cfz1n2cew.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\10pncwcxno-6pdc2jztkx.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\f9wlx4626l-493y06b0oq.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\xjv7sa8fbq-iovd86k7lj.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\q05gfs5yxe-vr1egmr9el.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\j6lze71rrp-kbrnm935zg.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\echactnea2-jj8uyg4cgr.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\73lkgtw999-y7v9cxd14o.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\laa3iz51lx-notf2xhcfb.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\na0c0p1i4s-h1s4sie4z3.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\1li7ksaxax-63fj8s7r0e.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\3r53klgpct-0j3bgjxly4.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\quh58w81zr-47otxtyo56.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\zt0oo0qt05-4v8eqarkd7.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\xg7lq6m2qu-356vix0kms.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\vpzcfbt4gu-83jwlth58m.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\cdeaoews0v-mrlpezrjn3.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\9ncmnibzrl-lzl9nlhx6b.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\j4r8vkscea-ag7o75518u.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\grj5l83x2z-x0q3zqp4vz.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\jbi6g53a9o-0i3buxo5is.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\przsk3mjpj-o1o13a6vjx.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\flw2089w3b-ttgo8qnofa.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\gpcp77l9js-2z0ns9nrw6.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\alv9dpjq61-muycvpuwrr.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\3jyz3avk9v-87fc7y1x7t.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\ljtb8baut5-mlv21k5csn.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\70qoziyx5v-81lgyl14h7.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\compressed\hd8weax3rz-81lgyl14h7.gz
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets.build.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets.development.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets\msbuild.Blog Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets\msbuild.Blog Management System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets\msbuild.build.Blog Management System.props
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Blog Management System.props
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Blog Management System.props
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets.pack.json
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.dll
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\refint\Blog Management System.dll
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.pdb
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\Blog Management System.genruntimeconfig.cache
+C:\myLearnings\BlogManagementSystem\Blog Management System\obj\Debug\net9.0\ref\Blog Management System.dll

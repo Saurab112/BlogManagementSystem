@@ -1,0 +1,9 @@
+﻿@model BlogPost
+
+<h2>@Model.Title</h2>
+<p><strong>Author:</strong> @Model.Author</p>
+<p><em>Created on: @Model.CreatedDate</em></p>
+<hr />
+<p>@Model.Content</p>
+
+<a href="@Url.Action("Index", "Blog")">Back to List</a>

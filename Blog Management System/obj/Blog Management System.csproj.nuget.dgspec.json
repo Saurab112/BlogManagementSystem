@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\myLearnings\\Blog Management System\\Blog Management System\\Blog Management System.csproj": {}
+    "C:\\myLearnings\\BlogManagementSystem\\Blog Management System\\Blog Management System.csproj": {}
   },
   "projects": {
-    "C:\\myLearnings\\Blog Management System\\Blog Management System\\Blog Management System.csproj": {
+    "C:\\myLearnings\\BlogManagementSystem\\Blog Management System\\Blog Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Blog Management System.csproj",
+        "projectUniqueName": "C:\\myLearnings\\BlogManagementSystem\\Blog Management System\\Blog Management System.csproj",
         "projectName": "Blog Management System",
-        "projectPath": "C:\\myLearnings\\Blog Management System\\Blog Management System\\Blog Management System.csproj",
+        "projectPath": "C:\\myLearnings\\BlogManagementSystem\\Blog Management System\\Blog Management System.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\myLearnings\\Blog Management System\\Blog Management System\\obj\\",
+        "outputPath": "C:\\myLearnings\\BlogManagementSystem\\Blog Management System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
