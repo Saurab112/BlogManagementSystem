@@ -8,7 +8,6 @@
             <th>Title</th>
             <th>Author</th>
             <th>Date</th>
-            <th>Content</th>
             <th>Actions</th>
         </tr>
     </thead>
@@ -21,11 +20,6 @@
                 </td>
                 <td>@post.Author</td>
                 <td>@post.CreatedDate.ToShortDateString()</td>
-                <td>
-                    <p>@post.Content.Substring(0,10)...</p>
-                    <a href="/Blog/Show/@post.Id" class="btn btn-secondary">Read More</a>
-
-                </td>
                 <td>
                     <a href="/Blog/Edit/@post.Id" class="btn btn-primary">Edit</a>
                     <a href="/Blog/Delete/@post.Id" class="btn btn-primary">Delete</a>
