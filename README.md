@@ -17,8 +17,11 @@ Installation
 
 3️⃣ Run the application
 
+## 📸 Screenshot
 
+![To-Do List App](https://github.com/Saurab112/BlogManagementSystem/blob/master/image1%20(1).png?raw=true)
 
+![To-Do List App](https://github.com/Saurab112/BlogManagementSystem/blob/master/image2%20(1).png?raw=true)
 📌 To-Do / Future Enhancements
 🗃 Migrate to Entity Framework Core (Currently using static storage)
 🧪 Write Unit Tests using xUnit
